@@ -13,5 +13,15 @@ div {
 
 h1 {
     color:white;
+    font-family: 'Libre Baskerville', serif;
+}
+
+p {
+    color: white;
+}
+
+img {
+    
+    border: solid 5px white;
 }
 
